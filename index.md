@@ -3,27 +3,23 @@
 
 ## 🤷 What I do
 
-I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
-
-This summer, I’m doing technical marketing at [Gatsby](https://gatsbyjs.org/) & a retreat at the [Recurse Center](recurse.com). At the [Senseable City Lab](http://senseable.mit.edu/), I'm making a website to visualize air pollution data collected by sensors installed on garbage trucks and taxis.
+I'm a senior at the University of Washington majoring in Computer Science (with a concentration in data science & machine learning) and minoring in Applied Mathematics. I've also completed the coursework for the Quant Fundamentals Certificate.
 
 ## 🦕 What I've done before
 
-Last summer, I interned at [Repl.it](https://repl.it/), an online code editor supporting 50+ programming languages & a community of 2 million makers.
+Previously, I worked for [Microsoft](https://www.microsoft.com/en-us/) and [BoldIQ](https://www.boldiq.com/), as a Software Engineering Intern 🖥️ .
 
-During high school, I organized [hackathons](http://mahacks.com/) & attempted bioinformatics research. I founded [Science and Us](http://scienceandus.org/) to introduce teens to the careers and anti-disciplinary mindset of science communication.
+I also interned at [RGM Commercial](https://www.rgmcommercial.com/) (my very first job), where I learned a lot about commercial real estate and finance 🏙️ .
 
-When I was 11, I loved Percy Jackson so much I ended up self-studying Modern Greek for 3 years, running a [linguistics Tumblr](http://subjunctivelymoody.tumblr.com/), and teaching myself Latin.
+I went to Juanita High School as part of the University of Cambridge Program 🇬🇧 , where I earned my AICE Diploma, played football 🏈 , basketball 🏀 , and track 🏃‍♂️ , played the violin in orchestra 🎻 , and helped lead the DECA club and National Honor Society. 
 
 ## 👋🏻 Say hi
 
 Wanna chat? Feel free to reach out!
 
-- Source code: [@katavie/point-theme](http://github.com/katavie/point-theme)
-- [Issues](https://github.com/katavie/point-theme/issues)
+- [LinkedIn](https://www.linkedin.com/in/shayannathan/)
 
 ## 📠 Fun facts
 
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+- I've been in the Pacific, Atlantic, and Indian Oceans (now only the Arctic left 🥶 )
+- I'm an Eagle Scout 🦅 
