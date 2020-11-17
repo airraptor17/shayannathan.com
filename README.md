@@ -1,4 +1,4 @@
-# [shayannathan.com](https://airraptor17.github.io/shayannathan.com/)
+# [shayannathan.com](https://shayannathan.github.io/shayannathan.com/)
 
 This is my personal website hosted on Github, which I made to gain more experience with Jekyll and Github while also making a site for myself. The template was shared to me by my buddy [Sharan Jhangiani](https://sharanjhangiani.com/)... and you may recognize the theme of his site ;)
 
