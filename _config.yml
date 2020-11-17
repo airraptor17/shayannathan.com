@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://airraptor17.github.io/shayannathan.com
+url: https://shayannathan.github.io/shayannathan.com
 
 # for header and meta tags
 title: Shayan Nathan
@@ -58,5 +58,3 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
-
-theme: jekyll-theme-cayman
