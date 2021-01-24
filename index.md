@@ -13,6 +13,16 @@ I also interned at [RGM Commercial](https://www.rgmcommercial.com/) (my very fir
 
 I went to Juanita High School as part of the University of Cambridge Program 🇬🇧 , where I earned my AICE Diploma, played football 🏈 , basketball 🏀 , and track 🏃‍♂️ , played the violin in orchestra 🎻 , and helped lead the DECA club and National Honor Society. 
 
+## 🎨 Projects
+
+- Interactive map of the University of Washington where users can find the shortest path between two buildings
+- PACMAN AI Project
+- Google Trends Visualization where users can compare the top New York Times stories with Google Trends data in 2019
+- Spotify Data Visualization
+- Neural Network Framework in C
+- Podcast Topic/Feature Extraction (using Deep Learning)
+- IPhone App to play charades with friends
+
 ## 👋🏻 Say hi
 
 Wanna chat? Feel free to reach out!
@@ -22,5 +32,5 @@ Wanna chat? Feel free to reach out!
 ## 📠 Fun facts
 
 - I've been in the Pacific, Atlantic, and Indian Oceans (now only the Arctic left 🥶 )
-- I've been on the same floor as President Obama 🇺🇸
+- I met the secret service when I was a young kid trying to catch a glimpse of President Obama 🇺🇸
 - I'm an Eagle Scout 🦅 
