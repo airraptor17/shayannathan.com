@@ -22,4 +22,5 @@ Wanna chat? Feel free to reach out!
 ## 📠 Fun facts
 
 - I've been in the Pacific, Atlantic, and Indian Oceans (now only the Arctic left 🥶 )
+- I've been on the same floor as President Obama 🇺🇸
 - I'm an Eagle Scout 🦅 
