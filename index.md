@@ -16,12 +16,13 @@ I went to Juanita High School as part of the University of Cambridge Program �
 ## 🎨 Projects
 
 - Interactive map of the University of Washington where users can find the shortest path between two buildings
+- AI Chess Bot
 - PACMAN AI Project
 - Google Trends Visualization where users can compare the top New York Times stories with Google Trends data in 2019
 - Spotify Data Visualization
 - Neural Network Framework in C
 - Podcast Topic/Feature Extraction (using Deep Learning)
-- IPhone App to play charades with friends
+- iPhone App to play charades with friends
 
 ## 👋🏻 Say hi
 
