@@ -23,6 +23,7 @@ I went to Juanita High School as part of the University of Cambridge Program �
 - Neural Network Framework in C
 - Podcast Topic/Feature Extraction (using Deep Learning)
 - iPhone App to play charades with friends
+- Random Episode Selector for TV Shows (web scraping and Pandas)
 
 ## 👋🏻 Say hi
 
